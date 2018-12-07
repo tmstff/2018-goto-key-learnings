@@ -145,7 +145,6 @@ ul li ul {
 }
 
 ul li ul li:before {
-    content: '-';
     font-weight: 600;
 }
 
