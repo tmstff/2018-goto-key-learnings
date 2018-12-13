@@ -77,23 +77,30 @@ $ python -m SimpleHTTPServer 8000
 # Insecure Transit - Microservice #3
 * Patching Madness:
     * Kubernetes &  IAAS: patchen wird einem abgenommen!
-    * Check container: https://github.com/coreos/clair
-    * Find outdated dependencies: https://snyk.io/
+    * Check container: <https://github.com/coreos/clair>
+    * Find outdated dependencies: <https://snyk.io/>
+    * Commercial check-as-a-service: <https://www.aquasec.com/>
 
-# Swearing, Nudity and Other Vulnerable Positions
-* John Le Drew - Engineer & Agile Coach [talk infos](https://gotober.com/2018/sessions/497)
+# Swearing, Nudity and Other ... #1
+* ... Vulnerable Positions
+* John Le Drew - Engineer & Agile Coach ([talk infos](https://gotober.com/2018/sessions/497) / [youtube](https://www.youtube.com/watch?v=ofBv-num0lA&index=4&list=PLEx5khR4g7PJquVHXtkcdo-QzK54bfmY9))
 * Psychological safety: belief that one will **not be punished or humiliated** for speaking up with **ideas, questions, concern or mistakes**
 * "Psychological safety was far and away the most important of the five dynamics we found"
     * ask for help without judgement on competence
     * ask for goal without sounding like the only one out of loop
     * raise red flag without being judged
+
+# Swearing, Nudity and Other ... #2
 * How to achieve that?
     * Mindfulness
-        * Paying attention is about noticing how you feeld, how people around you are feeling and approaching people and the organisation with curiosity and not judgement.
+        * Paying attention is about noticing how you feel, how people around you are feeling and approaching people and the organisation with curiosity and not judgement.
     * Yes, and ...  instead of "yes, but"
         * -> go with the idea, improvise, leave room for creativity
     * Are you OK? -> replace judgent with curiosity
-* https://www.youtube.com/watch?v=ofBv-num0lA&index=4&list=PLEx5khR4g7PJquVHXtkcdo-QzK54bfmY9
+* Google Aristotle:
+    * <https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/>
+    * <https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/>
+    * <https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html>
 
 #The Leprechauns of Software Engineering
 * Laurent Bossavit - [talk infos](https://gotober.com/2018/sessions/565)
@@ -104,8 +111,8 @@ $ python -m SimpleHTTPServer 8000
     * look up sources
 * sci-hub
     * Scientific knowledge should be free
-    * https://de.wikipedia.org/wiki/Sci-Hub
-    * http://sci-hub.tech/
+    * <https://de.wikipedia.org/wiki/Sci-Hub>
+    * <http://sci-hub.tech/>
 
 # Debugging in Kubernetes
 * "Troubleshooting & Debugging Microservices in Kubernetes"
@@ -119,7 +126,7 @@ $ python -m SimpleHTTPServer 8000
 
 # Service Mesh
 * "A service mesh is a dedicated infrastructure layer for handling service-to-service communication"
-* https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/
+* <https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/>
 * Service Discovery
 * Authentication
 * Load Balancing
@@ -127,14 +134,14 @@ $ python -m SimpleHTTPServer 8000
 * Tracing (?)
 * etc.
 
-# Energy and Education Access for Remote Communities
-* Jaideep Bansal - Energy Access Leader at Global Himalayan Expedition [talk info](https://gotober.com/2018/sessions/539)
+# Energy and Education Access ...
+* ... for Remote Communities
+* Jaideep Bansal - Energy Access Leader at Global Himalayan Expedition ([talk info](https://gotober.com/2018/sessions/539) / [Video](https://www.youtube.com/watch?v=AwS42muvKQ0&feature=youtu.be&list=PLEx5khR4g7PJW7u0GKxRPIQddtu69boT3))
 * LED Licht & Solar Panels für Enlegene Dörfer im Himalaya
     * CO2-Reduktion
     * Lebensqualität
     * Bildung => Lebensgrundlage
     * Verhinderung von Landflucht => Erhalt von Kultur & nachhaltiger Lebensweise
     * Finanzierung durch Touristen-Trekking
-* Youtube Video (https://www.youtube.com/watch?v=AwS42muvKQ0&feature=youtu.be&list=PLEx5khR4g7PJW7u0GKxRPIQddtu69boT3)
-* Expiditionen: http://ghe.co.in/
+* Expiditionen: <http://ghe.co.in/>
 
